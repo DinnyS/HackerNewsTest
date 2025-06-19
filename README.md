@@ -12,6 +12,8 @@ so I create a new folder name Pages (index.js | [id].js)
 index.js is a main Page for Display 10 Storys
 id.js is a Detail of Story 
 
+Time that i start the test at : 13:30 pm++ and end around at 19:30 pm with extra time
+
 Challenge of this test is
 - **NO AI!!**
 - I never use Next.Js before
