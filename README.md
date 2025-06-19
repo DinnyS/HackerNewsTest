@@ -13,6 +13,7 @@ index.js is a main Page for Display 10 Storys
 id.js is a Detail of Story 
 
 Challenge of this test is
+- **NO AI!!**
 - I never use Next.Js before
 - I don't know about getStaticProps , getServerSideProps and this feature in offical website have less example for use
 - My tailwind is not working when my pages is outsite of app folder so my solution is comeback to use css (cannot use in App Router)
