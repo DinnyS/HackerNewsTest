@@ -21,5 +21,7 @@ Challenge of this test is
 - I use Extra time about CSS command and learning about Next JS in offical website **(I think Next.Js that was good so I will Learn more about technical)**
 - Loadinng Feature for App Router connot use in Page Router so i fix it by use UseEffect with useRouter
 
+  Vercel Link : https://vercel.com/dins-projects-03547272/hacker-news-test
+
   Best Regards
   Din
